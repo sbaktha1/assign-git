@@ -1,5 +1,16 @@
 * What is a gitignore file and what should it include for a Java project?
+Ignores untracked files
+
 * What does fast-forward in Git mean?
+
+Fast forward means moving the source branch pointer to the target pointer without creating extra merge
+
 * Why should you have different branches?
+
+Allows each developer to work independently and isolate it with others
+
+
 * In a project how many remote Git repositories do you usually have?
+
+one
 
